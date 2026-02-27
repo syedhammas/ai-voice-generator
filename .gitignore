@@ -1,0 +1,6 @@
+ai_voice_310/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
